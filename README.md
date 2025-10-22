@@ -10,7 +10,7 @@ YATranslator (Yet Another Translator) is a lightweight, system-tray-based transl
 - **Minimalist UI**: Simple and clean interface with an information window and translation overlay.
 
 ## 🔧 Usage
-- **Launch the Application**: Run the script or executable to start YATranslator.
+- **Launch the Application**: Run .exe to start YATranslator.
 - **Translate Text**:
   -  Select text in any application.
   -  Press Ctrl+C+C to trigger translation.
